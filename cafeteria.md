@@ -1,5 +1,10 @@
 # Lista de Productos - Cafetería "El Rincón"
 
+## Horario de Atención
+- Lunes a viernes: 7:00 AM - 10:00 PM
+- Sábados: 8:00 AM - 11:00 PM
+- Domingos: 9:00 AM - 8:00 PM
+
 ## Bebidas
 
 | Producto | Precio (CUP) |
@@ -167,8 +172,10 @@
 ## Servicios Adicionales
 
 - Servicio a domicilio: 200 CUP (en cualquier parte del reparto, sin subir escaleras de edificios)
+- Horario de entrega a domicilio: 8:00 AM - 9:00 PM (todos los días)
 
 ---
 
-*Precios sujetos a cambios sin previo aviso*
-*Disponibilidad según existencias*
+*Precios sujetos a cambios sin previo aviso*  
+*Disponibilidad según existencias*  
+*Trabajamos todos los días del año*
