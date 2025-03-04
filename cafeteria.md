@@ -1,4 +1,4 @@
-# Lista de Productos - Cafetería "El Rincón"
+# Lista de Productos - Cafetería "El Rincón de Scull"
 
 ## Horario de Atención
 - Lunes a viernes: 7:00 AM - 10:00 PM
