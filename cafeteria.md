@@ -163,13 +163,6 @@
 | Vasos desechables | 180 |
 | Platos desechables | 200 |
 
-## Métodos de Pago
-
-- Transferencia bancaria a la tarjeta: 1234 5678 8978 7654
-- Pasarelas de pago: EnZona y TransferMóvil
-- Teléfono a confirmar: 56789876
-- Efectivo (en tienda).
-
 ## Servicios Adicionales
 
 - Servicio a domicilio: 200 CUP (en cualquier parte del reparto, sin subir escaleras de edificios)
