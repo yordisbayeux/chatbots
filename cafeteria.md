@@ -165,9 +165,10 @@
 
 ## Métodos de Pago
 
-- Transferencia bancaria a la cuenta: 1234 5678 8978 7654
+- Transferencia bancaria a la tarjeta: 1234 5678 8978 7654
 - Pasarelas de pago: EnZona y TransferMóvil
-- Efectivo (en tienda)
+- Teléfono a confirmar: 56789876
+- Efectivo (en tienda).
 
 ## Servicios Adicionales
 
